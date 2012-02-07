@@ -15,6 +15,7 @@ var tab1 = Titanium.UI.createTab({
 	window:win1
 });
 
+Here is some crazy code
 
 var newVar = test;
 //
