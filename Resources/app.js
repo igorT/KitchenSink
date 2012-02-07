@@ -15,6 +15,8 @@ var tab1 = Titanium.UI.createTab({
 	window:win1
 });
 
+
+var newVar = test;
 //
 // create controls tab and root window
 //
