@@ -4,7 +4,7 @@ Titanium.UI.setBackgroundColor('#000');
 // create tab group
 var tabGroup = Titanium.UI.createTabGroup({id:'tabGroup1'});
 
-
+This is our new idea
 //
 // create base UI tab and root window
 //
@@ -14,9 +14,7 @@ var tab1 = Titanium.UI.createTab({
 	id:'tab1',
 	window:win1
 });
-
-Here is some crazy code
-
+2
 var newVar = test;
 //
 // create controls tab and root window
